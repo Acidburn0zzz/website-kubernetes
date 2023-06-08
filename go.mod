@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/google/go-cmp v0.5.6 // indirect
-	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	k8s.io/apimachinery v0.21.0
 	k8s.io/kubernetes v0.0.0
 )
